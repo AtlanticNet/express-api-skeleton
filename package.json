@@ -1,0 +1,16 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "This is a barebones Node.js API using Express Framework",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": ""
+  },
+  "author": "Atlantic.net",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4"
+  }
+}
